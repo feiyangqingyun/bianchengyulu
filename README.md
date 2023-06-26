@@ -3,12 +3,13 @@
 1. **项目作品：[https://blog.csdn.net/feiyangqingyun/article/details/97565652](https://blog.csdn.net/feiyangqingyun/article/details/97565652)**
 2. **网店地址：https://shop244026315.taobao.com/**
 3. **联系方式：QQ（517216493）微信（feiyangqingyun）推荐加微信。**
-4. **版本支持：所有项目已经全部支持Qt4/5/6所有版本以及后续版本。**
-5. 监控作品体验：[https://pan.baidu.com/s/1d7TH_GEYl5nOecuNlWJJ7g](https://pan.baidu.com/s/1d7TH_GEYl5nOecuNlWJJ7g) 提取码：01jf
-6. 其他作品体验：[https://pan.baidu.com/s/1ZxG-oyUKe286LPMPxOrO2A](https://pan.baidu.com/s/1ZxG-oyUKe286LPMPxOrO2A) 提取码：o05q
-7. 监控系统在线文档：[https://feiyangqingyun.gitee.io/QWidgetDemo/video_system/](https://feiyangqingyun.gitee.io/QWidgetDemo/video_system/)
-8. 大屏系统在线文档：[https://feiyangqingyun.gitee.io/QWidgetDemo/bigscreen/](https://feiyangqingyun.gitee.io/QWidgetDemo/bigscreen/)
-9. 物联网系统在线文档：[https://feiyangqingyun.gitee.io/QWidgetDemo/iotsystem/](https://feiyangqingyun.gitee.io/QWidgetDemo/iotsystem/)
+4. **公 众 号：Qt教程（民间）  Qt软件（官方）**
+5. **版本支持：所有项目已经全部支持Qt4/5/6所有版本以及后续版本。**
+6. 监控作品体验：[https://pan.baidu.com/s/1d7TH_GEYl5nOecuNlWJJ7g](https://pan.baidu.com/s/1d7TH_GEYl5nOecuNlWJJ7g) 提取码：01jf
+7. 其他作品体验：[https://pan.baidu.com/s/1ZxG-oyUKe286LPMPxOrO2A](https://pan.baidu.com/s/1ZxG-oyUKe286LPMPxOrO2A) 提取码：o05q
+8. 监控系统在线文档：[https://feiyangqingyun.gitee.io/QWidgetDemo/video_system/](https://feiyangqingyun.gitee.io/QWidgetDemo/video_system/)
+9. 大屏系统在线文档：[https://feiyangqingyun.gitee.io/QWidgetDemo/bigscreen/](https://feiyangqingyun.gitee.io/QWidgetDemo/bigscreen/)
+10. 物联网系统在线文档：[https://feiyangqingyun.gitee.io/QWidgetDemo/iotsystem/](https://feiyangqingyun.gitee.io/QWidgetDemo/iotsystem/)
 
 ## 1 经验语录
 ### 01：001-010
@@ -221,7 +222,9 @@
 
 89. 与其左思右想，不断权衡利弊，以期做好充分准备，还不如先让自己搞起来。犹犹豫豫，很容易陷入精神内耗，搞起来，就成功了80%。而犹犹豫豫，只会拖延时间，错失良机。的确，有些决策需要慢一点。但也有一些事情，需要我们有超强的行动力。
 
-90. 真正做到内心的强大是很不容易的，尤其是那种双手插兜，不知道什么叫做对手的境界，中间需要经历太多的磨难和挑战和心境的一步步提升，做程序开发也是一样，在编程的江湖，只要稍微一出手，就已经是这个Qt开发领域的极限。
+90. 真正做到内心的强大是很不容易的，尤其是那种双手插兜，不知道什么叫做对手的境界，中间需要经历太多的磨难和挑战，心境才能一步步提升。做程序开发也是一样，在编程的江湖，只要稍微一出手，就已经是这个Qt开发领域的极限。
+
+91. 很多创业者都觉得自己发现了一个非常牛逼的商业模式去创业的，但在实操中会发现，所谓的完美的牛逼的商业模式，根本就没有存在过。放眼现在最牛的商业模式，都是创始人和其团队在实践中不断调整和提升的结果。想出来的商业模式不是你的，做出来的才是你的。不被市场认可的所谓的牛逼的商业模式都是耍流氓。
 
 96. 世界是复杂的，也是简单的，编程世界也是如此。
 97. 纵观大多数的软件产品服务商，基本上走的路线都类似：简化版开源免费，标准版平民价，高级定制版老板价。
