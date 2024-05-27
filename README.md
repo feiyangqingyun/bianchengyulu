@@ -8,9 +8,9 @@
 6. **版本支持：所有项目已经全部支持Qt4/5/6所有版本以及后续版本。**
 7. 监控作品体验：[https://pan.baidu.com/s/1d7TH_GEYl5nOecuNlWJJ7g](https://pan.baidu.com/s/1d7TH_GEYl5nOecuNlWJJ7g) 提取码：01jf
 8. 其他作品体验：[https://pan.baidu.com/s/1ZxG-oyUKe286LPMPxOrO2A](https://pan.baidu.com/s/1ZxG-oyUKe286LPMPxOrO2A) 提取码：o05q
-9. 监控系统在线文档：[https://feiyangqingyun.gitee.io/QWidgetDemo/video_system/](https://feiyangqingyun.gitee.io/QWidgetDemo/video_system/)
-10. 大屏系统在线文档：[https://feiyangqingyun.gitee.io/QWidgetDemo/bigscreen/](https://feiyangqingyun.gitee.io/QWidgetDemo/bigscreen/)
-11. 物联网系统在线文档：[https://feiyangqingyun.gitee.io/QWidgetDemo/iotsystem/](https://feiyangqingyun.gitee.io/QWidgetDemo/iotsystem/)
+9. 监控系统在线文档：[http://www.qtcdev.com/video_system/](http://www.qtcdev.com/video_system/)
+10. 大屏系统在线文档：[http://www.qtcdev.com/bigscreen/](http://www.qtcdev.com/bigscreen/)
+11. 物联网系统在线文档：[http://www.qtcdev.com/iotsystem/](http://www.qtcdev.com/iotsystem/)
 
 ## 1 经验语录
 ### 01：001-010
@@ -94,7 +94,7 @@
 47. 有一种生意最赚钱，那就是教别人如何赚钱，让别人赚钱。有一种成功最成功，那就是让别人成功从而让自己获得成功！
 48. 在编程这条技术路线过程中，除了要耐得住寂寞，扛得住诱惑，技术深扎根以外，更需要自我总结、自我推动、自我激发、自我生产、自我疗伤、自我成长。学会左手温暖右手！
 49. 活在当下都不容易，多少人为了养家糊口远离他乡和父母小孩在外打工奋斗，住着简易的房子，甚至有些还不足10平米，一边还着房贷车贷，一边交着房租，而且很多人还是交着两个房租，一个是家里边为了小孩在县城读书租房的，一个是自己在外打工租房的，但是各位心中依然憧憬着美好的未来，致敬每一个在外打工漂泊的人。
-50. 程序员不要随意吹牛逼，这个月薪五万那个年薪百万，还有个刚毕业就月薪三万，当你跟着一起瞎几把吹牛逼的时候，有一天你会突然发现只有你在吹牛逼，别人说的都是真的！
+50. 程序员不要随意吹牛逼，这个月薪五万那个年薪百万，还有个刚毕业就月薪三万，当你跟着一起瞎吹牛逼的时候，有一天你会突然发现只有你在吹牛逼，别人说的都是真的！
 
 ### 06：051-060
 51. 如果不是为了荣归故里，谁他么愿意 “漂泊流浪” ”远走他乡“。
